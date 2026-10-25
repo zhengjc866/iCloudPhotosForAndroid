@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#FFF7F7FA</color>
+    <!-- Default for the night-qualified variant so lint/old configs never miss it. -->
+    <color name="app_background_dark">#FF121216</color>
+    <color name="ic_launcher_background">#FF1E88E5</color>
+</resources>

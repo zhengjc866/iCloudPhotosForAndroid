@@ -1,0 +1,30 @@
+# Gradle / Android
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+*.log
+
+# Toolchain installed by the local build environment
+.toolchain/
+.scratch/
+
+# Private notes (raw protocol captures / device verification logs, not for publishing)
+.local-notes/
+
+# Local artifacts (built APKs are published via GitHub Releases)
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
